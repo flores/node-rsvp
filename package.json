@@ -1,0 +1,17 @@
+{
+  "name": "rsvp",
+  "description": "An rsvp web app, because there's not enough rsvp web apps...",
+  "author": "flores <github@petalphile.com>",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "connect": "latest",
+    "jade": "latest",
+    "redis": "latest",
+    "hiredis": "latest"
+  }
+}
+
